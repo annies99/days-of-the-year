@@ -6,6 +6,9 @@
 //
 
 import SwiftUI
+import UIKit
+import Contacts
+import EventKit
 
 struct ContentView: View {
     var body: some View {
